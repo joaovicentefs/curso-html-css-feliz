@@ -51,3 +51,8 @@ h1.fonte-pixelada {
     color: #4BA6A5;
     text-shadow: 4px 4px 0 #000;
 }
+h2.fonte-pixelada {
+    font-size: 30px;
+    color: #fff;
+    text-shadow: 4px 4px 0 #000;;
+}
