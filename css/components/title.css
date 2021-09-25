@@ -1,0 +1,8 @@
+.fonte-pixelada {
+    font-family: 'Press Start 2P', cursive;
+}
+h1.fonte-pixelada {
+    font-size: 40px;
+    color: #4BA6A5;
+    text-shadow: 4px 4px 0 #000;
+}
